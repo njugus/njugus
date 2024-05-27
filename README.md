@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm Kelvin Njuguna, an aspiring full stack developer currently diving deep into the world of web development. My journey in tech has just begun, and I'm excited to learn and grow in this ever-evolving field.
+Hi there! I'm Kelvin Njuguna, an aspiring full stack developer currently diving deep into the world of web development. I'm excited to learn and grow in this ever-evolving field.
 
 ## Current Learning Path
 
